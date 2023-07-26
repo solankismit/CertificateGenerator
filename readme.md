@@ -2,6 +2,13 @@
 
 This is a Streamlit web application that generates certificates using user-provided data and a custom certificate template.
 
+## Demo
+
+A live demo of the Certificate Generator application is available on Streamlit Sharing. You can access it [here](https://share.streamlit.io/your-username/certificate-generator/app.py).
+
+Note: The live demo may have limited resources and may not be available at all times. If you encounter any issues, please try running the application locally using the instructions provided in the "Usage" section.
+
+
 ## Getting Started
 
 ### Prerequisites
