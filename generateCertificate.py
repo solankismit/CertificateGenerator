@@ -54,7 +54,7 @@ class GenerateCertificate:
         # Convert the PIL Image back to a NumPy array
         output_image = np.array(pil_image)
         # Save the image
-        cv2.imwrite(f"certificate{index+1}.jpg", output_image)
+        cv2.imwrite(f"generate/certificate{index+1}.jpg", output_image)
         print("Processing certi {}/{}".format(index + 1, list_length))
 
 
