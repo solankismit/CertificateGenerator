@@ -1,0 +1,24 @@
+
+    .drag-drop-container {
+        border: 2px dashed #ccc;
+        border-radius: 5px;
+        padding: 20px;
+        text-align: center;
+        background-color: #f9f9f9;
+        cursor: pointer;
+    }
+
+    .drag-drop-container:hover {
+        border-color: #aaa;
+    }
+
+    .drag-drop-container .drag-drop-text {
+        font-size: 18px;
+        color: #555;
+    }
+
+    .drag-drop-container .drag-drop-icon {
+        font-size: 48px;
+        color: #aaa;
+        margin-bottom: 10px;
+    }
